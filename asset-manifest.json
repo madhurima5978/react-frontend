@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-frontend/static/css/main.77f760f2.css",
+    "main.js": "/react-frontend/static/js/main.fb2359c0.js",
+    "static/js/592.f195dc85.chunk.js": "/react-frontend/static/js/592.f195dc85.chunk.js",
+    "static/media/tomodachi_game.jpg": "/react-frontend/static/media/tomodachi_game.be50ea389c6a2ce8f87a.jpg",
+    "static/media/dr_stone.jpg": "/react-frontend/static/media/dr_stone.53f845c63d93bb01428b.jpg",
+    "static/media/jjk.jpg": "/react-frontend/static/media/jjk.786e2130792eb11966e1.jpg",
+    "static/media/assasination_classroom.jpg": "/react-frontend/static/media/assasination_classroom.64072579fafaae139fa5.jpg",
+    "static/media/demon_slayer.jpg": "/react-frontend/static/media/demon_slayer.d380a4791c2de8681ad0.jpg",
+    "static/media/promised_neverland.jpg": "/react-frontend/static/media/promised_neverland.3680050f029c10484ac1.jpg",
+    "static/media/blue_lock.jpg": "/react-frontend/static/media/blue_lock.510756baab40d9900e0f.jpg",
+    "static/media/way_of_househusband.jpg": "/react-frontend/static/media/way_of_househusband.e0726c08245abd653062.jpg",
+    "static/media/aot.jpg": "/react-frontend/static/media/aot.2591bf1f6095f17fff74.jpg",
+    "static/media/saiki_k.jpg": "/react-frontend/static/media/saiki_k.4b5c61c76c073fda043e.jpg",
+    "static/media/naruto.jpg": "/react-frontend/static/media/naruto.92a91513ad64f2646447.jpg",
+    "static/media/tokyo_ghoul.jpg": "/react-frontend/static/media/tokyo_ghoul.8ae3abdc17ca18abe070.jpg",
+    "static/media/horimiya.jpg": "/react-frontend/static/media/horimiya.43c35a3ba7bc6646a3f5.jpg",
+    "static/media/my_happy_marriage.jpg": "/react-frontend/static/media/my_happy_marriage.e7144f729a9c35455665.jpg",
+    "static/media/food_wars.jpg": "/react-frontend/static/media/food_wars.c2d8bdc6e626120ffeea.jpg",
+    "static/media/haikyuu.jpg": "/react-frontend/static/media/haikyuu.3a9e44c9b4872d01106d.jpg",
+    "static/media/one_punch_man.jpg": "/react-frontend/static/media/one_punch_man.731db5db245607a673d6.jpg",
+    "static/media/spyxfamily.jpg": "/react-frontend/static/media/spyxfamily.7ea36fd4e7949fd39a54.jpg",
+    "static/media/classroom_of_the_elite.jpg": "/react-frontend/static/media/classroom_of_the_elite.ae748e65d69ac928ef9c.jpg",
+    "static/media/solo_leveling.jpg": "/react-frontend/static/media/solo_leveling.fc8903f4c53b16faec1e.jpg",
+    "static/media/death_note.jpg": "/react-frontend/static/media/death_note.fd66acab44129a4eb250.jpg",
+    "static/media/revicons.eot": "/react-frontend/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-frontend/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/react-frontend/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react-frontend/index.html",
+    "main.77f760f2.css.map": "/react-frontend/static/css/main.77f760f2.css.map",
+    "main.fb2359c0.js.map": "/react-frontend/static/js/main.fb2359c0.js.map",
+    "592.f195dc85.chunk.js.map": "/react-frontend/static/js/592.f195dc85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f760f2.css",
+    "static/js/main.fb2359c0.js"
+  ]
+}
