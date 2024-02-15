@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/react-frontend/static/css/main.77f760f2.css",
-    "main.js": "/react-frontend/static/js/main.39a15acd.js",
+    "main.css": "/react-frontend/static/css/main.fb04fd8a.css",
+    "main.js": "/react-frontend/static/js/main.dc8c3657.js",
     "static/js/592.f195dc85.chunk.js": "/react-frontend/static/js/592.f195dc85.chunk.js",
+    "static/media/solo_leveling.jpg": "/react-frontend/static/media/solo_leveling.f2b963033f09923389df.jpg",
     "static/media/tomodachi_game.jpg": "/react-frontend/static/media/tomodachi_game.be50ea389c6a2ce8f87a.jpg",
     "static/media/dr_stone.jpg": "/react-frontend/static/media/dr_stone.53f845c63d93bb01428b.jpg",
     "static/media/jjk.jpg": "/react-frontend/static/media/jjk.786e2130792eb11966e1.jpg",
@@ -22,18 +23,17 @@
     "static/media/one_punch_man.jpg": "/react-frontend/static/media/one_punch_man.731db5db245607a673d6.jpg",
     "static/media/spyxfamily.jpg": "/react-frontend/static/media/spyxfamily.7ea36fd4e7949fd39a54.jpg",
     "static/media/classroom_of_the_elite.jpg": "/react-frontend/static/media/classroom_of_the_elite.ae748e65d69ac928ef9c.jpg",
-    "static/media/solo_leveling.jpg": "/react-frontend/static/media/solo_leveling.fc8903f4c53b16faec1e.jpg",
     "static/media/death_note.jpg": "/react-frontend/static/media/death_note.fd66acab44129a4eb250.jpg",
     "static/media/revicons.eot": "/react-frontend/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/react-frontend/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react-frontend/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react-frontend/index.html",
-    "main.77f760f2.css.map": "/react-frontend/static/css/main.77f760f2.css.map",
-    "main.39a15acd.js.map": "/react-frontend/static/js/main.39a15acd.js.map",
+    "main.fb04fd8a.css.map": "/react-frontend/static/css/main.fb04fd8a.css.map",
+    "main.dc8c3657.js.map": "/react-frontend/static/js/main.dc8c3657.js.map",
     "592.f195dc85.chunk.js.map": "/react-frontend/static/js/592.f195dc85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f760f2.css",
-    "static/js/main.39a15acd.js"
+    "static/css/main.fb04fd8a.css",
+    "static/js/main.dc8c3657.js"
   ]
 }
