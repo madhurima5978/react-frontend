@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/react-frontend/static/css/main.d86c1344.css",
-    "main.js": "/react-frontend/static/js/main.bad7d66f.js",
+    "main.js": "/react-frontend/static/js/main.edb0193e.js",
     "static/js/592.f195dc85.chunk.js": "/react-frontend/static/js/592.f195dc85.chunk.js",
     "static/media/solo_leveling.jpg": "/react-frontend/static/media/solo_leveling.f2b963033f09923389df.jpg",
     "static/media/one_punch_man.jpg": "/react-frontend/static/media/one_punch_man.c92ed8b13921e9d2d49a.jpg",
     "static/media/dr_stone.jpg": "/react-frontend/static/media/dr_stone.e5345d217e7087cc6cb3.jpg",
-    "static/media/tomodachi_game.jpg": "/react-frontend/static/media/tomodachi_game.c37b31b3f3420e9a3ca5.jpg",
+    "static/media/tomodachi_game.jpg": "/react-frontend/static/media/tomodachi_game.a166a7c7afd667b754b6.jpg",
     "static/media/saiki_k.jpg": "/react-frontend/static/media/saiki_k.a31d96b3d6bc9ec54625.jpg",
     "static/media/demon_slayer.jpg": "/react-frontend/static/media/demon_slayer.d91f5a804e8b4bf362b4.jpg",
     "static/media/way_of_househusband.jpg": "/react-frontend/static/media/way_of_househusband.ec0534f8758214fca98a.jpg",
@@ -29,11 +29,11 @@
     "static/media/revicons.woff": "/react-frontend/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react-frontend/index.html",
     "main.d86c1344.css.map": "/react-frontend/static/css/main.d86c1344.css.map",
-    "main.bad7d66f.js.map": "/react-frontend/static/js/main.bad7d66f.js.map",
+    "main.edb0193e.js.map": "/react-frontend/static/js/main.edb0193e.js.map",
     "592.f195dc85.chunk.js.map": "/react-frontend/static/js/592.f195dc85.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d86c1344.css",
-    "static/js/main.bad7d66f.js"
+    "static/js/main.edb0193e.js"
   ]
 }
